@@ -10,4 +10,4 @@ Please refer to the presentation for this part of the workshop.
 
 ----
 
-[![Previous](img/previous.png)](./08_playbooks.md) [![Next](img/next.png)](./10_cleanup.md)
+[[Previous](./08_playbooks.md)
