@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to the Cloud Native SecOps with Azure Sentinel workshop! This workshop was created as a walkthrough for an in person workshop, however you may feel free to run through at your own pace.   
+Welcome to the Sentinel course !   
 ### Some Pre-requisites
 
 * An Azure Subscription
@@ -28,4 +28,4 @@ The workshop is designed to take approximately 3-4 hours to complete.
 
 ----
 
-[![Next]](./01_intro.md)
+[[Next]](./01_intro.md)
