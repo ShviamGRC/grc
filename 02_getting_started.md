@@ -4,16 +4,6 @@
     </a>
 </div>
 
-# 02 - Getting Started  
-
-First things first, we need to log into our Azure accounts and configure Azure Sentinel. 
-
-### Applying your Azure Pass
-If you require an Azure Pass please follow the below, otherwise you may skip this step. 
-
-1. Head over to https://www.microsoftazurepass.com/Home/HowTo for instructions on how to redeem your Azure Pass.
-2. Ask the workshop presenter for your pass code. 
-
 ### Creating an Azure Sentinel workspace
 1. Within the azure portal (https://portal.azure.com) type 'sentinel' in the top search bar and select 'Azure Sentinel' 
 2. Click ' Add' in the top left to create a Sentinel Workspace. You'll be prompted to create a new workspace.
