@@ -1,8 +1,4 @@
-<div align="center">
-    <a href="./README.md">
-        <img src="img/header.png"/>
-    </a>
-</div>
+<img width="488" alt="image" src="https://github.com/ShviamGRC/grc/assets/125584190/a1073fd2-bdb6-4c94-b94b-8c4fe678a83b">
 
 ## Welcome
 
