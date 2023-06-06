@@ -29,4 +29,4 @@ The workshop is designed to take approximately 3-4 hours to complete.
 
 ----
 
-[![Next](img/get_started.png)](./01_intro.md)
+[![Next]](./01_intro.md)
