@@ -25,7 +25,6 @@ The workshop is designed to take approximately 3-4 hours to complete.
 | 07 | [Threat Hunting](07_hunting.md)                  | Hands on Lab |
 | 08 | [Automation with Playbooks](08_playbooks.md)     | Hands on Lab |
 | 09 | [Design Considerations](09_patterns.md)                | Presentation |
-| 10 | [Wrap / Clean Up](10_cleanup.md)                 | Hands on Lab |
 
 ----
 
